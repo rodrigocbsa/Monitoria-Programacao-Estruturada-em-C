@@ -28,8 +28,8 @@ int main(){
 	*/
 	int x = 10;
 	int *pX = &x; // Equivale a "pX = &x" fora da declaração.
-	printf("%d",pX); // Imprimirá o endereço de memória de x.
-	printf("%d",*pX); // Imprimirá a derreferência de pX (subir na escada), que é 10.
+	printf("\npX = %d",pX); // Imprimirá o endereço de memória de x.
+	printf("\n*pX = %d",*pX); // Imprimirá a derreferência de pX (subir na escada), que é 10.
 	// Portanto isso confirma a teoria em dizer que o ponteiro é uma característica/atributo especial da variável que, caso utilizado, ele cumprirá o seu papel de derreferenciar a variável.
 	
 	

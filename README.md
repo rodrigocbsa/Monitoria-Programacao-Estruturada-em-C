@@ -11,7 +11,7 @@ Matrizes.c ==> Contém todas as formas de se declarar uma matriz em C (as formas
 
 Vetores.c ==> Ensina a declarar vetores e sua característica principal.
 
-Ponteiros.c ==> O arquivo mais importante para a sua sobrevivência. Expliquei também em vídeo (aqui). Humildemente, é a melhor explicação possível que jamais consegui conceber ou achar na internet. Você não sai dali (ou pelo menos não deveria) sem entender.
+Ponteiros.c ==> O arquivo mais importante para a sua sobrevivência. Expliquei também em vídeo ([aqui](https://vimeo.com/1019824978?share=copy)). Humildemente, é a melhor explicação possível que jamais consegui conceber ou achar na internet. Você não sai dali (ou pelo menos não deveria) sem entender.
 
 
 Nos arquivos Ponteiros.c e Malloc.c é para ler como um livro: Esforce-se para entrar na cabeça do autor e não pule nenhuma linha, sob o risco de sair sem entender nada.
